@@ -57,7 +57,7 @@ body {
 }
 
 .nav-links li a:hover {
-  color: rgb(0, 217, 255);
+  color: rgb(255, 0, 0);
   font-size: 30px;
   font-style: initial;
 }
@@ -74,7 +74,7 @@ body {
 
 
 .container {
-  background: url("https://i.pinimg.com/1200x/e4/06/19/e4061979395f420e8a5e488a653c178c.jpg") no-repeat center center fixed;
+  background: url("https://st.depositphotos.com/1518767/3845/i/450/depositphotos_38457491-stock-photo-futuristic-technology-interface.jpg") no-repeat center center fixed;
   background-size: cover;
   width: 100%;
   height: 100vh;
@@ -211,7 +211,7 @@ footer {
 }
 
 #input_group button {
-  background-color: #00daf7;
+  background-color: #f70000;
   border: none;
   color: var(--color-neutral-40);
   padding: 0px 1.25rem;
@@ -253,5 +253,5 @@ button{
 }
 
 button:hover{
-  background-color: #0cc6d3;
+  background-color: #fd0000;
 }
